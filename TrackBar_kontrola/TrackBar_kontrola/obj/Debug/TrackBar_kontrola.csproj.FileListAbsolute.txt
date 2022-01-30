@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\TrackBar_kontrola\TrackBar_kontrola\bin\Debug\TrackBar_kontrola.exe.config
+C:\Users\PC\source\repos\TrackBar_kontrola\TrackBar_kontrola\bin\Debug\TrackBar_kontrola.exe
+C:\Users\PC\source\repos\TrackBar_kontrola\TrackBar_kontrola\bin\Debug\TrackBar_kontrola.pdb
+C:\Users\PC\source\repos\TrackBar_kontrola\TrackBar_kontrola\obj\Debug\TrackBar_kontrola.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\TrackBar_kontrola\TrackBar_kontrola\obj\Debug\TrackBar_kontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\TrackBar_kontrola\TrackBar_kontrola\obj\Debug\TrackBar_kontrola.Form1.resources
+C:\Users\PC\source\repos\TrackBar_kontrola\TrackBar_kontrola\obj\Debug\TrackBar_kontrola.Properties.Resources.resources
+C:\Users\PC\source\repos\TrackBar_kontrola\TrackBar_kontrola\obj\Debug\TrackBar_kontrola.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\TrackBar_kontrola\TrackBar_kontrola\obj\Debug\TrackBar_kontrola.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\TrackBar_kontrola\TrackBar_kontrola\obj\Debug\TrackBar_kontrola.exe
+C:\Users\PC\source\repos\TrackBar_kontrola\TrackBar_kontrola\obj\Debug\TrackBar_kontrola.pdb

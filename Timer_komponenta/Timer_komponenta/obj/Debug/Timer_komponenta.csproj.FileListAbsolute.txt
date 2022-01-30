@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\Timer_komponenta\Timer_komponenta\bin\Debug\Timer_komponenta.exe.config
+C:\Users\PC\source\repos\Timer_komponenta\Timer_komponenta\bin\Debug\Timer_komponenta.exe
+C:\Users\PC\source\repos\Timer_komponenta\Timer_komponenta\bin\Debug\Timer_komponenta.pdb
+C:\Users\PC\source\repos\Timer_komponenta\Timer_komponenta\obj\Debug\Timer_komponenta.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\Timer_komponenta\Timer_komponenta\obj\Debug\Timer_komponenta.Form1.resources
+C:\Users\PC\source\repos\Timer_komponenta\Timer_komponenta\obj\Debug\Timer_komponenta.Properties.Resources.resources
+C:\Users\PC\source\repos\Timer_komponenta\Timer_komponenta\obj\Debug\Timer_komponenta.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Timer_komponenta\Timer_komponenta\obj\Debug\Timer_komponenta.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Timer_komponenta\Timer_komponenta\obj\Debug\Timer_komponenta.exe
+C:\Users\PC\source\repos\Timer_komponenta\Timer_komponenta\obj\Debug\Timer_komponenta.pdb
